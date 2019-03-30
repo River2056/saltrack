@@ -1,0 +1,22 @@
+@CHARSET "utf-8";
+
+* {
+	margin: 0;
+}
+
+body {
+	font-size: 30px;
+	padding: 10px;
+}
+
+table {
+	margin-bottom: 20px;
+}
+
+.row1 {
+	background: #fff;
+}
+
+.row2 {
+	background: #eee;
+}
